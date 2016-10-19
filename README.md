@@ -1,1 +1,1 @@
-# kirproj_IOGEN
+# some bioinformatics algorithms 
