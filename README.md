@@ -1,1 +1,2 @@
-# some bioinformatics algorithms 
+# Some bioinformatics algorithms 
+
